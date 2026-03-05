@@ -574,6 +574,9 @@ export default function Dashboard({ onLogout }) {
                 Account number: {ACCOUNTS[activeAcct].num} &nbsp;·&nbsp; As of
                 03/04/2026 9:32 AM ET
               </div>
+              <div className="tsb-sub">
+                $45,000 to be deducted for verification fine
+              </div>
             </div>
             <div className="acct-hdr-btns">
               <button
