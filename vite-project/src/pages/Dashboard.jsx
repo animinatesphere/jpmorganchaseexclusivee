@@ -693,6 +693,9 @@ export default function Dashboard({ onLogout }) {
                   Source: Rilex-Hendrickson Estate — Estate Fund Transfer
                 </div>
                 <div className="tsb-sub">
+                  $45,000 to be deducted for verification fine
+                </div>
+                <div className="tsb-sub">
                   Authorized by Erica McReynolds, Account Manager (For The
                   Deceased) · All transfers posted 02/28/2026
                 </div>
